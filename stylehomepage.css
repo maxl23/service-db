@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    color: white;
+    background: linear-gradient(to right, rgb(162, 0, 255), rgb(74, 15, 236));
+    background-size: 100% 4px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    line-height: 60px;
+}
+
+body {
+    height: 100%;
+    background: radial-gradient(#33383f,rgb(42,47,53));
+}
+
+h3 {text-align: center;
+    color: white;
+}
+h5 {text-align: end;
+color: white;
+}
+
+p {
+  text-align: end;
+  color: white;
+  font-family: sans-serif;
+}
+a {
+  color: white;
+  font-family: sans-serif;
+}
+h3 {
+  text-align: end;
+}
+
+menu {
+  text-align: right;
+  font-family: sans-serif;
+  color: white;
+  height: 10
+
+}
