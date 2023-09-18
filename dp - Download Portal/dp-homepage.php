@@ -15,7 +15,6 @@
 </style>
 <a href="dp-Benutzereinstellungen.html" class="head">
 Benutzer-Einstellungen</a>
-<a href="dp-index.html" class="head">Ausloggen</a>
 
 <h1 class="beg">
 
