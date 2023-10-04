@@ -46,7 +46,7 @@
 	<a href="#">
 		<font face="Lato" color="#000">Aktuelle News</font>
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="#">
+	<a href="../sp - Support/sp-contactus.html">
 		<font face="Lato" color="#000">Kontaktiere uns</font>
 	</a>
 	</h3>
